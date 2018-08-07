@@ -1,2 +1,1 @@
-umi 极快 内置了react react-router
-以约定代替，简化代码 pages 就是路由
+umi做的小demo,只实现了首页的一些功能
